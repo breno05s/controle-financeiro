@@ -21,5 +21,5 @@
 
 <h3>Projeto desenvolvido por 
   <a href="https://github.com/renehtar">Francisco Reneilson</a> e 
-  <a href="https://github.com/breno05s">Breno Lourenço</a>
+  <a href="https://github.com/brenolourenc">Breno Lourenço</a>
 </h3>
